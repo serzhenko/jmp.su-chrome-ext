@@ -1,10 +1,9 @@
 {
-	"name": "Custom URL Shortener",
-	"version": "0.3",
-	"description": "Shortens URLs with a custom service",
-	"update_url": "http://ablu.us/custom_update.xml",
+	"name": "jmp.su URL Shortener",
+	"version": "0.1",
+	"description": "Shortens URLs via jmp.su URL shortener",
+	"update_url": "http://serzhen.co/files/update.xml",
 	"background_page": "background.html",
-	"options_page": "options.html",
 	"icons": {
 		"48": "icons/48icon.png",
 		"128": "icons/128icon.png"
@@ -15,6 +14,6 @@
 	},
 	"permissions": [
 		"tabs",
-		"http://*/*"
+		"http://jmp.su/*"
 	]
 }

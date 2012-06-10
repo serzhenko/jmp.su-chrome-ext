@@ -2,7 +2,6 @@
 	"name": "jmp.su URL Shortener",
 	"version": "0.1",
 	"description": "Shortens URLs via jmp.su URL shortener",
-	"update_url": "http://serzhen.co/files/update.xml",
 	"background_page": "background.html",
 	"icons": {
 		"48": "icons/48icon.png",
